@@ -1,0 +1,172 @@
+ body {
+    font: 18px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {font-size: 14px;}
+  
+  a {text-decoration:none}
+  
+  a:hover {color:white}
+  
+  .margin {margin-bottom: 45px;}
+  .old-bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+  
+   .bg-1 { 
+    background-color: #eee; /* Green */
+    color: #106d5a;
+  }
+  
+  .padded {
+  	padding: 0 10%;
+  }
+  
+  
+  .bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 3px;
+    background:#383838
+  }
+  .navbar-brand{
+  	color:#ffffff;
+  	font-weight:500;
+  	font-size:30px;
+  	font-weight:bold;
+  }
+  .navbar-nav li a{color:white;font-size:15px;}
+  .navbar-nav  li a:hover {
+    color: black !important;
+    background:white;
+    border-radius:30px;
+  }
+  .alert{
+  padding:5px;
+  }
+  .jumbotron p{
+  	color:#106d5a;
+  }
+    .jumbotron h2,h3{
+    color:#bf0000;
+    }
+    
+    .form-wrap{
+    	background-color:white;
+    	padding: 55px 55px 37px;
+    	background: -webkit-linear-gradient(top,#7579ff,#b224ef);
+    	border-radius:25px;
+    }
+    
+    .form-head{
+    	font-size: 4rem;
+    	color: #fff;
+    }
+    
+    .form-label{
+    	color:#fff;
+    }
+    
+    .form-group{
+    	margin-bottom:20px
+    }
+    
+    .login{
+    	height:50px;
+    	min-width:120px;
+    	border-radius:25px;
+    	font-size:16px;
+    }
+    
+    .list-cars{
+    	display:flex;
+    	flex-wrap:wrap;
+    	justify-content:center;
+    }
+    
+    .car-item {
+    	flex-direction: row;
+    	width: 500px;
+   	    background: white;
+    	display: flex;
+    	align-items: center;
+    	padding: 20px;
+    	margin: 20px;
+    	border-radius: 20px;
+    	flex-wrap:wrap;
+    }
+    
+    .car-image{
+    	width:250px;
+    }
+    
+    .car-details{
+    	color: black;
+    	fon-size: 2.5rem;
+    	margin:auto;
+    }
+    
+    .car-details p{font-size:20px}
+    
+    .car-action {
+    	width:100%;
+    	flex:1 0 100%;
+    	margin-top:20px;
+    }
+    
+    .profile-img{
+    	border-radius:50%;
+    }
+    
+    .profile-details{
+    	margin-top: 30px;
+    	color: #bf0000;
+    	font-size: 20px;
+    	margin-bottom:20px;
+    }
+    
+    .profile-btn{
+    	padding: 15px 30px;
+    	font-size: 18px;
+	}
+	
+	.profile-label{
+		text-align:right;
+	}
+	
+	.profile-input{
+		text-align:left;
+	}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
